@@ -1,3 +1,3 @@
 export interface PostResponse {
-    name: string;
+  name: string;
 }
